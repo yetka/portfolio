@@ -1,0 +1,80 @@
+.photo img {
+  width: 200px;
+  height: 250px;
+  position: relative;
+  left: 40%;
+  margin: 12px;
+  border: 4px solid black;
+  padding: 2px;
+  margin: 10px;
+  background-color: lightgray;
+}
+
+.name {
+  margin: 12px;
+  border: 4px solid black;
+  padding: 2px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.about-me {
+  margin: 12px;
+  border: 4px solid #33ccff;
+  padding: 2px;
+  background-color: #ccf2ff;
+}
+
+.about-me h2 {
+  margin: 12px;
+  border: 4px solid #33ccff;
+  padding: 2px;
+  background-color: #33ccff;
+  text-align: center;
+}
+
+.about-me p {
+  padding: 12px;
+}
+
+.background {
+  margin: 12px;
+  border: 4px solid #00ffcc;
+  padding: 2px;
+  background-color: #ccfff5;
+}
+
+.background h2 {
+  margin: 12px;
+  border: 4px solid #00ffcc;
+  padding: 2px;
+  background-color: #00ffcc;
+  text-align: center;
+}
+
+.background h3 {
+  margin: 12px;
+  border: 4px solid #99ffeb;
+  padding: 2px;
+  background-color: #99ffeb;
+  text-align: center;
+}
+
+.background p {
+  margin: 12px;
+}
+
+.hobbies {
+  margin: 12px;
+  border: 4px solid #669999;
+  padding: 2px;
+  background-color: #f0f5f5;
+}
+
+.hobbies h2 {
+  margin: 12px;
+  border: 4px solid #c2d6d6;
+  padding: 2px;
+  background-color: #c2d6d6;
+  text-align: center;
+}
