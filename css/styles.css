@@ -60,6 +60,10 @@
   padding: 12px;
 }
 
+.important {
+  color: red;
+}
+
 .background {
   margin: 12px;
   border: 4px solid #00ffcc;
@@ -85,6 +89,10 @@
 
 .background p {
   margin: 12px;
+}
+
+#special {
+  color: blue;
 }
 
 .hobbies {
