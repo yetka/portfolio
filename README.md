@@ -6,7 +6,9 @@
 
 ## Description
 
-This is a website including portfolio with Github repositories.
+This is a website including portfolio on [Github repositories](https://github.com/yetka/portfolio).
+
+
 
 ## Setup/Installation Requirements
 
